@@ -10,8 +10,9 @@ Antes de começar este módulo, eu tinha um conhecimento básico sobre vários a
 - <span>Ética em Tecnologia:</span> Eu não sabia muito sobre.
 - <span>Gestão de Tempo:</span> Eu sabia que o tempo tem que ser organizado de maneira inteligente.
 - <span>Git Básico:</span> Eu já conhecia a ferramenta.
-- <span>TypeScript:</span> Só conhecia o JavaScript.
-- <span>Métodos de Strings:</span> Eu sabia que eram usados para mexer com texto na programação.
+- <span>Introdução a TypeScript:</span> Só conhecia o JavaScript.
+- <span>Métodos de strings:</span> Eu sabia que eram usados para mexer com texto na programação.
+- <span>Métodos de arrays:</span> Eu sabia que eram usados para mexer com listas na programação.
 
 ### O que eu queria aprender? ###
 
@@ -21,8 +22,9 @@ Durante este módulo, eu estava muito animado para aprender mais sobre esses ass
 - <span>LinkedIn:</span> Eu queria aprender a como organizar meu perfil no linkedin para chamar mais atenção.
 - <span>Ética em Tecnologia:</span> Queria aprender oq é.
 - <span>Git:</span> Queria aprimorar meus conhecimentos.
-- <span>TypeScript:</span> Queria aprender a usar e as principais diferenças dele para o JavaScript.
-- <span>Métodos de Strings:</span> Queria explorar as funções que ajudam a trabalhar com textos em JavaScript.
+- <span>Introdução a TypeScript:</span> Queria aprender a usar e as principais diferenças dele para o JavaScript.
+- <span>Métodos de strings:</span> Queria explorar as funções que ajudam a trabalhar com texto em JavaScript.
+- <span>Métodos de Arrays:</span> Queria explorar as funções que ajudam a trabalhar com listas em JavaScript.
 
 ## Minha Experiência e Evolução
 
@@ -42,9 +44,9 @@ Comecei a organizar meu tempo de uma maneira mais inteligente separando por dia 
 
 Eu aprimorei o que eu já sabia sobre o git.
 
-### **TypeScript e Métodos de Strings/Arrays/Objetos**
+### **Introdução a TypeScript e Métodos de Strings/Arrays/Objetos**
 
-Aprendi a sintaxe do TypeScript e descobri as diferenças e semelhanças dele com o JacaScript. Sobre os métodos eu aprendi a manipular.
+Aprendi a sintaxe do TypeScript e descobri as diferenças e semelhanças dele com o JacaScript. Sobre os métodos eu aprendi muitos métodos(não sabia que existiam tantos assim kkk).
 
 ## Desafios e Conquistas
 
